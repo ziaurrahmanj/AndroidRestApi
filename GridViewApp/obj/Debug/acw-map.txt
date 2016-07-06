@@ -1,0 +1,8 @@
+GridViewApp.GridViewAdapter, GridViewApp;md574ce2a593b23a48f4dafd596535d58ae.GridViewAdapter
+GridViewApp.GridViewAdapter, GridViewApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md574ce2a593b23a48f4dafd596535d58ae.GridViewAdapter
+GridViewApp.GridViewAdapter;md574ce2a593b23a48f4dafd596535d58ae.GridViewAdapter
+gridviewapp.GridViewAdapter;md574ce2a593b23a48f4dafd596535d58ae.GridViewAdapter
+GridViewApp.MainActivity, GridViewApp;md574ce2a593b23a48f4dafd596535d58ae.MainActivity
+GridViewApp.MainActivity, GridViewApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md574ce2a593b23a48f4dafd596535d58ae.MainActivity
+GridViewApp.MainActivity;md574ce2a593b23a48f4dafd596535d58ae.MainActivity
+gridviewapp.MainActivity;md574ce2a593b23a48f4dafd596535d58ae.MainActivity

@@ -1,0 +1,7 @@
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPI\bin\Debug\FlickrAPI.dll
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPI\bin\Debug\FlickrAPI.pdb
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPI\bin\Debug\FlickrNet.dll
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPI\obj\Debug\FlickrAPI.dll
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPI\obj\Debug\FlickrAPI.pdb

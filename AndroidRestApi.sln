@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCL", "PCL\PCL.csproj", "{D293C08A-CD0D-4C12-ACDA-8B45C1A895F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlickrAPI", "FlickrAPI\FlickrAPI.csproj", "{00CFD13D-65D7-4759-B204-92F49FA166BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlickrAPITests", "FlickrAPITests\FlickrAPITests.csproj", "{6DD4D438-36BD-47B9-8311-D662F15F4663}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlickrClient", "FlickrClient\FlickrClient.csproj", "{56928AA9-60D6-4281-BD3F-57DC06E83ADC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlickrAPI.Portable", "FlickrAPI.Portable\FlickrAPI.Portable.csproj", "{60DFA197-9C85-479F-A0F2-3B001666DD3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridViewApp", "GridViewApp\GridViewApp.csproj", "{D9D6C95E-0F7A-486F-94A9-0AFFBBC5D9D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D293C08A-CD0D-4C12-ACDA-8B45C1A895F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D293C08A-CD0D-4C12-ACDA-8B45C1A895F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D293C08A-CD0D-4C12-ACDA-8B45C1A895F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D293C08A-CD0D-4C12-ACDA-8B45C1A895F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00CFD13D-65D7-4759-B204-92F49FA166BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CFD13D-65D7-4759-B204-92F49FA166BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CFD13D-65D7-4759-B204-92F49FA166BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CFD13D-65D7-4759-B204-92F49FA166BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DD4D438-36BD-47B9-8311-D662F15F4663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD4D438-36BD-47B9-8311-D662F15F4663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD4D438-36BD-47B9-8311-D662F15F4663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD4D438-36BD-47B9-8311-D662F15F4663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56928AA9-60D6-4281-BD3F-57DC06E83ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56928AA9-60D6-4281-BD3F-57DC06E83ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56928AA9-60D6-4281-BD3F-57DC06E83ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56928AA9-60D6-4281-BD3F-57DC06E83ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60DFA197-9C85-479F-A0F2-3B001666DD3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60DFA197-9C85-479F-A0F2-3B001666DD3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60DFA197-9C85-479F-A0F2-3B001666DD3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60DFA197-9C85-479F-A0F2-3B001666DD3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9D6C95E-0F7A-486F-94A9-0AFFBBC5D9D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D6C95E-0F7A-486F-94A9-0AFFBBC5D9D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D6C95E-0F7A-486F-94A9-0AFFBBC5D9D3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D9D6C95E-0F7A-486F-94A9-0AFFBBC5D9D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D6C95E-0F7A-486F-94A9-0AFFBBC5D9D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9D6C95E-0F7A-486F-94A9-0AFFBBC5D9D3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+   
+
+
+  <EditText
+          android:text="47.7"
+          android:layout_width="150dp"
+          android:layout_height="50dp"
+          android:id="@+id/latText"
+          android:textAppearance="?android:attr/textAppearanceMedium"
+          android:layout_marginLeft="5dp" />
+  <EditText
+          android:text="-122.5"
+          android:layout_width="150dp"
+          android:layout_height="50dp"
+          android:id="@+id/longText"
+          android:textAppearance="?android:attr/textAppearanceMedium"
+          android:layout_marginLeft="5dp" />
+  <Button
+           android:id="@+id/getWeatherButton"
+           android:layout_width="300dp"
+           android:layout_height="wrap_content"
+           android:gravity="center_horizontal"
+           android:textAppearance="?android:attr/textAppearanceLarge"
+           android:text="Get Weather" />
+</LinearLayout>

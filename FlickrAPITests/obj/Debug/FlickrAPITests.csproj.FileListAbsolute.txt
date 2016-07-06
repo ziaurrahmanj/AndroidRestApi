@@ -1,0 +1,9 @@
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPITests\bin\Debug\FlickrAPITests.dll
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPITests\bin\Debug\FlickrAPITests.pdb
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPITests\bin\Debug\FlickrAPI.dll
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPITests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPITests\bin\Debug\FlickrNet.dll
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPITests\bin\Debug\FlickrAPI.pdb
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPITests\obj\Debug\FlickrAPITests.csprojResolveAssemblyReference.cache
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPITests\obj\Debug\FlickrAPITests.dll
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPITests\obj\Debug\FlickrAPITests.pdb

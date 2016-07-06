@@ -1,0 +1,9 @@
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPI.Portable\bin\Debug\FlickrAPI.Portable.dll
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPI.Portable\bin\Debug\FlickrAPI.Portable.pdb
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPI.Portable\obj\Debug\FlickrAPI.Portable.csprojResolveAssemblyReference.cache
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPI.Portable\obj\Debug\FlickrAPI.Portable.dll
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPI.Portable\obj\Debug\FlickrAPI.Portable.pdb
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPI.Portable\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPI.Portable\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPI.Portable\obj\Debug\FlickrAPI.Portable.dll.mdb
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\FlickrAPI.Portable\bin\Debug\FlickrAPI.Portable.dll.mdb

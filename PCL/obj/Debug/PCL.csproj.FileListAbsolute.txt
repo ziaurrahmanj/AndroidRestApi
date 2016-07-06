@@ -1,0 +1,13 @@
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\PCL\bin\Debug\PCL.dll
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\PCL\bin\Debug\PCL.pdb
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\PCL\obj\Debug\PCL.dll
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\PCL\obj\Debug\PCL.pdb
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\PCL\bin\Debug\PCL.dll.config
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\PCL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\PCL\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\PCL\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\PCL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\PCL\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\PCL\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\PCL\obj\Debug\PCL.csproj.App.config
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\AndroidRestApi\PCL\obj\Debug\PCL.csprojResolveAssemblyReference.cache
